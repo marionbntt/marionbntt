@@ -1,0 +1,23 @@
+h1 {
+    color: #FF1B42;
+}
+
+li {
+	color: #55B738;
+}
+
+p {
+	color: #FF1B42;
+}
+
+html {
+    background-color: #b8ffb5;
+}
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #ffd7f6;
+	padding: 0 150px 145px 13px;
+	border: 10px solid purple;
+}
